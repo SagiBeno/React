@@ -1,6 +1,6 @@
 # Reacthoz anyagok:
 
-## Keretrendszerek
+## Keretrendszerek, komponensek (pl.: spinner, button, stb)
 - Reactstrap:
   - https://reactstrap.github.io/?path=/story/home-installation--page
 - React-Bootstrap:
